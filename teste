@@ -1,17 +1,14 @@
+<channels>
+</channels>
 
-<?xml version="1.0" encoding="windows-1252"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<items> 
-
-
-<item>
-<title>[B][COLOR white]PFC DIA DE JOGOS[/COLOR][/B]</title>
-<link>xxx</link>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Pfc_dia_de_jogo.html</externallink>
-<thumbnail>xxx</thumbnail>
-<fanart>http://goo.gl/9ttIS6</fanart>
-</item>
-
+<channel>
+<name>[B][COLOR blue]●[/COLOR][COLOR white]PREMIERE FC[/COLOR][/B]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/001/685/060/full/fanart.jpg?1540326436</thumbnail>
+<externallink>http://brazucaplay.forumbrasil.net/h2-menu</externallink>
+<fanart>https://uploaddeimagens.com.br/images/001/685/060/full/fanart.jpg?1540326436</fanart>
+</channel>
+ 
+ 
 ################ Informação da Lista ################
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/Cif8ht" group-title="PREMIERE FC", Atualizado 25/08/2018 ás 09:30 hrs
