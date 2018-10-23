@@ -1,0 +1,114 @@
+
+<?xml version="1.0" encoding="windows-1252"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<items> 
+
+
+
+<item>
+<title>[B][COLOR white]JOGOS DE HOJE[/COLOR][/B]</title>
+<link>xxx</link>
+<externallink>http://igorlista.at.ua/Futebol_AoVivo/Jogos_de_Hoje.txt</externallink>
+<thumbnail>xxx</thumbnail>
+<fanart>http://goo.gl/Yn4NOh</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]PFC DIA DE JOGOS[/COLOR][/B]</title>
+<link>xxx</link>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Pfc_dia_de_jogo.html</externallink>
+<thumbnail>xxx</thumbnail>
+<fanart>http://goo.gl/9ttIS6</fanart>
+</item>
+
+################ Informação da Lista ################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/Cif8ht" group-title="PREMIER FC", Atualizado 25/08/2018 ás 09:30 hrs
+
+
+############################################ PREMIER FC ######################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  2 FULL HD
+http://listaccess.me:8880/live/monte/monte/7169.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  2 HD
+http://listaccess.me:8880/live/monte/monte/2221.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  2 SD
+http://listaccess.me:8880/live/monte/monte/2222.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  3 FULL HD
+http://listaccess.me:8880/live/monte/monte/7168.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  3 HD
+http://listaccess.me:8880/live/monte/monte/2219.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  3 SD
+http://listaccess.me:8880/live/monte/monte/2220.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  4 FULL HD
+http://listaccess.me:8880/live/monte/monte/7167.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  4 HD
+http://listaccess.me:8880/live/monte/monte/2217.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  4 SD
+http://listaccess.me:8880/live/monte/monte/2218.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  5 FULL HD
+http://listaccess.me:8880/live/monte/monte/7166.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  5 HD
+http://listaccess.me:8880/live/monte/monte/2215.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  5 SD
+http://listaccess.me:8880/live/monte/monte/2216.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  6 FULL HD
+http://listaccess.me:8880/live/monte/monte/7165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  6 HD
+http://listaccess.me:8880/live/monte/monte/7094.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  6 SD
+http://listaccess.me:8880/live/monte/monte/2214.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  7 FULL HD
+http://listaccess.me:8880/live/monte/monte/7164.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  7 HD
+http://listaccess.me:8880/live/monte/monte/7095.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  7 SD
+http://listaccess.me:8880/live/monte/monte/2213.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  8
+http://listaccess.me:8880/live/monte/monte/2212.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  8 [OPCAO 2]
+http://listaccess.me:8880/live/monte/monte/13639.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE  9
+http://listaccess.me:8880/live/monte/monte/2211.ts
+
+###
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE CLUBES
+http://listaccess.me:8880/live/monte/monte/2224.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.mi.tv/channels/br_premiere-fc_m.png" group-title="ESPORTES",⚽ PREMIERE CLUBES [OPCAO 2]
+http://listaccess.me:8880/live/monte/monte/7301.ts
